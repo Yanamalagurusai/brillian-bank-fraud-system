@@ -1,0 +1,11 @@
+com\brillian\notification\entity\Notification$NotificationBuilder.class
+com\brillian\notification\dto\NotificationResponse$NotificationResponseBuilder.class
+com\brillian\notification\entity\Notification.class
+com\brillian\notification\dto\NotificationResponse.class
+com\brillian\notification\NotificationServiceApplication.class
+com\brillian\notification\config\GlobalExceptionHandler.class
+com\brillian\notification\service\NotificationService.class
+com\brillian\notification\dto\MessageResponse.class
+com\brillian\notification\controller\NotificationController.class
+com\brillian\notification\service\EmailService.class
+com\brillian\notification\repository\NotificationRepository.class

@@ -1,0 +1,13 @@
+com\brillian\dispute\enums\DisputeStatus.class
+com\brillian\dispute\dto\CreateDisputeRequest.class
+com\brillian\dispute\dto\DisputeResponse.class
+com\brillian\dispute\service\DisputeService.class
+com\brillian\dispute\repository\DisputeRepository.class
+com\brillian\dispute\config\GlobalExceptionHandler.class
+com\brillian\dispute\dto\MessageResponse.class
+com\brillian\dispute\entity\Dispute.class
+com\brillian\dispute\dto\DisputeResponse$DisputeResponseBuilder.class
+com\brillian\dispute\DisputeServiceApplication.class
+com\brillian\dispute\controller\DisputeController.class
+com\brillian\dispute\entity\Dispute$DisputeBuilder.class
+com\brillian\dispute\dto\UpdateDisputeStatusRequest.class

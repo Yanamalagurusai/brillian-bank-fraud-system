@@ -1,0 +1,10 @@
+C:\Users\Home G\Desktop\BrillianBankProject\fraud-service\src\main\java\com\brillian\fraud\config\GlobalExceptionHandler.java
+C:\Users\Home G\Desktop\BrillianBankProject\fraud-service\src\main\java\com\brillian\fraud\controller\FraudController.java
+C:\Users\Home G\Desktop\BrillianBankProject\fraud-service\src\main\java\com\brillian\fraud\dto\FraudCaseResponse.java
+C:\Users\Home G\Desktop\BrillianBankProject\fraud-service\src\main\java\com\brillian\fraud\dto\FraudCheckRequest.java
+C:\Users\Home G\Desktop\BrillianBankProject\fraud-service\src\main\java\com\brillian\fraud\dto\MessageResponse.java
+C:\Users\Home G\Desktop\BrillianBankProject\fraud-service\src\main\java\com\brillian\fraud\entity\FraudCase.java
+C:\Users\Home G\Desktop\BrillianBankProject\fraud-service\src\main\java\com\brillian\fraud\enums\RiskLevel.java
+C:\Users\Home G\Desktop\BrillianBankProject\fraud-service\src\main\java\com\brillian\fraud\FraudServiceApplication.java
+C:\Users\Home G\Desktop\BrillianBankProject\fraud-service\src\main\java\com\brillian\fraud\repository\FraudCaseRepository.java
+C:\Users\Home G\Desktop\BrillianBankProject\fraud-service\src\main\java\com\brillian\fraud\service\FraudDetectionService.java

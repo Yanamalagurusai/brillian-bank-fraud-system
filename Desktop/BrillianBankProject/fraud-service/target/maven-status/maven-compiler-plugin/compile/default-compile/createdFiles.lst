@@ -1,0 +1,13 @@
+com\brillian\fraud\entity\FraudCase$FraudCaseBuilder.class
+com\brillian\fraud\dto\FraudCaseResponse.class
+com\brillian\fraud\enums\RiskLevel.class
+com\brillian\fraud\FraudServiceApplication.class
+com\brillian\fraud\service\FraudDetectionService.class
+com\brillian\fraud\config\GlobalExceptionHandler.class
+com\brillian\fraud\dto\MessageResponse.class
+com\brillian\fraud\dto\FraudCheckRequest.class
+com\brillian\fraud\controller\FraudController.class
+com\brillian\fraud\dto\FraudCaseResponse$FraudCaseResponseBuilder.class
+com\brillian\fraud\entity\FraudCase.class
+com\brillian\fraud\repository\FraudCaseRepository.class
+com\brillian\fraud\service\FraudDetectionService$1.class
